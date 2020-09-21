@@ -1,0 +1,19 @@
+{
+  "name": "aoe2buildorders",
+  "version": "0.0.1",
+  "description": "AOE2  build orders cheat sheet",
+  "main": "index.js",
+  "authors": {
+    "name": "Thomas Miller",
+    "email": "thomas.miller147@gmail.com"
+  },
+  "repository": "https://github.com/Meuss/aoe2buildorders/aoe2buildorders",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
