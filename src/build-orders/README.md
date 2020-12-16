@@ -21,5 +21,3 @@
 - Queue 2 vills to gold
 - Blacksmith + Market
 - Click Castle.
-
-<ToggleDarkMode/>

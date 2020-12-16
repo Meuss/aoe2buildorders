@@ -1,7 +1,7 @@
 {
   "name": "aoe2buildorders",
   "version": "0.0.1",
-  "description": "AOE2  build orders cheat sheet",
+  "description": "Aoe2 build orders cheat sheet",
   "main": "index.js",
   "authors": {
     "name": "Thomas Miller",

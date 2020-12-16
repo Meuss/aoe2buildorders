@@ -21,5 +21,3 @@
 ### 23 pop feudal
 
 2 Archeries, all new vills to gold
-
-<ToggleDarkMode/>

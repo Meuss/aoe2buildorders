@@ -22,5 +22,3 @@
 - all the rest wood
 
 ### 30 pop feudal
-
-<ToggleDarkMode/>

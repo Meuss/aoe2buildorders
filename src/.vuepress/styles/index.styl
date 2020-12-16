@@ -4,5 +4,38 @@
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
 
-.home .hero img
-  max-width 450px!important
+
+html {
+  background: #333;
+}
+body {
+  background: #333;
+  .navbar,
+  aside.sidebar,
+  .navbar .links {
+    background: #333;
+  }
+  a,
+  .navbar .site-name,
+  .sidebar-group,
+  .sidebar-link {
+    color: #3eaf7c;
+  }
+}
+body h1,
+body h2,
+body h3,
+body p,
+body .home .hero .description,
+.home .footer,
+li,
+li a.sidebar-link {
+  color: #f1f1f1;
+}
+body .home .hero .action-button {
+  background-color: #222;
+  border-bottom: 1px solid #111;
+}
+body .home .hero .action-button:hover {
+  background-color: #1b1b1b;
+}

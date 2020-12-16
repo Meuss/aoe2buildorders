@@ -23,5 +23,3 @@
 Horse collar, double-bit axe
 Stable
 Build as much farms as possible
-
-<ToggleDarkMode/>
