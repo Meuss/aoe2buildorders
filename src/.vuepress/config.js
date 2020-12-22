@@ -20,11 +20,26 @@ module.exports = {
     search: false,
     nav: [],
     sidebar: {
-      "/build-orders/": [
+      "/": [
         {
           title: "Build orders",
           collapsable: false,
-          children: ["", "archers", "scouts", "drush", "scouts-archers"],
+          children: [
+            "",
+            "fast-castle-boom",
+            "fast-castle-unique",
+            "khmer-fast-castle",
+            "archers",
+            "scouts",
+            "drush",
+            "scouts-archers",
+            "mayans",
+            "mongols-scout-rush",
+            "japanese-maa-flood",
+            "persian-douche",
+            "aztecs-arena",
+            "byzantines-imp-arena",
+          ],
         },
       ],
     },
