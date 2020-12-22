@@ -34,9 +34,6 @@
 - send one gold to wood
 - Double-bit axe
 
-</div>
-</div>
-
 ### Castle
 
 - Immediately place 2 Town center
@@ -44,4 +41,7 @@
 - Bow Saw + Horse-Collar
 - New vills to wood, create farms!
 - Need 18 farms for 3 TC prod.
-- 45 pop: 22 wood, 20 famrs, 1 gold, 1 building
+- 45 pop: 22 wood, 20 farms, 1 gold, 1 building
+
+</div>
+</div>

@@ -19,30 +19,38 @@ module.exports = {
     lastUpdated: false,
     search: false,
     nav: [],
-    sidebar: {
-      "/": [
-        {
-          title: "Build orders",
-          collapsable: false,
-          children: [
-            "",
-            "fast-castle-boom",
-            "fast-castle-unique",
-            "khmer-fast-castle",
-            "archers",
-            "scouts",
-            "drush",
-            "scouts-archers",
-            "mayans",
-            "mongols-scout-rush",
-            "japanese-maa-flood",
-            "persian-douche",
-            "aztecs-arena",
-            "byzantines-imp-arena",
-          ],
-        },
-      ],
-    },
+    sidebar: [
+      {
+        title: "Fast Castle",
+        sidebarDepth: 1,
+        collapsable: false,
+        children: [
+          "/",
+          "fast-castle-boom",
+          "fast-castle-unique",
+          "khmer-fast-castle",
+        ],
+      },
+      {
+        title: "Regular",
+        sidebarDepth: 1,
+        collapsable: false,
+        children: ["archers", "scouts", "drush"],
+      },
+      {
+        title: "Civ Specific",
+        sidebarDepth: 1,
+        collapsable: false,
+        children: [
+          "mayans",
+          "mongols-scout-rush",
+          "japanese-maa-flood",
+          "persian-douche",
+          "aztecs-arena",
+          "byzantines-imp-arena",
+        ],
+      },
+    ],
   },
 
   /**
